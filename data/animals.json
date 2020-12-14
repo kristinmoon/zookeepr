@@ -128,6 +128,15 @@
         "goofy"
       ],
       "id": "12"
+    },
+    {
+      "name": "Jeff",
+      "species": "lizard",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
